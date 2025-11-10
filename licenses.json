@@ -16,13 +16,5 @@
     "max_uses": 1,
     "used_count": 0,
     "devices": []
-  },
-  {
-    "token": "eyJleHAiOjE3NjUzOTMzMjc3NzEsIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.747aa23ad7b50cd44fe0b07b21875daaaa9e20faed216cc6f09015f278a8a338",
-    "created": "2025-11-10",
-    "exp": null,
-    "max_uses": 1,
-    "used_count": 0,
-    "devices": []
   }
 ]
