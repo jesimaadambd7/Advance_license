@@ -18,15 +18,5 @@
     "devices": [
       "a301bc3b83a253c51eaa25831c9fa61a3d112f14432c212dfd88cdeb5f0c73af"
     ]
-  },
-  {
-    "token": "eyJleHAiOjE3NjU2NDQ4ODU1MDksIm1heF91c2VzIjoxLCJ1c2VyIjoidXNlciJ9.9b322cc762a4cec9954116470db7ee0af4ded2d93fc7f0d80e8dc29eb65cbe6b",
-    "created": "2025-11-13",
-    "exp": "2025-12-13",
-    "max_uses": 1,
-    "used_count": 1,
-    "devices": [
-      "d1744b9a269a32dd4033ae17237bb02ade813295560f8c111ca65c8f2ebfd2dc"
-    ]
   }
 ]
