@@ -32,7 +32,7 @@
   {
     "token": "eyJleHAiOjE3NjMxNzk0MTA0NTgsIm1heF91c2VzIjo1MCwidXNlciI6InVzZXIifQ.02399b37127652c930e562dc8a9ccfa6e116482dc1e71d5962842286c66c0030",
     "created": "2025-11-14",
-    "exp": null,
+    "exp": "1970-01-01",
     "max_uses": 50,
     "used_count": 50,
     "devices": [
@@ -93,7 +93,9 @@
     "created": "2025-12-12",
     "exp": "2026-01-11",
     "max_uses": 1,
-    "used_count": 0,
-    "devices": []
+    "used_count": 1,
+    "devices": [
+      "942d48edb89547d6930412e21e14467b4fbffc9d7b9584f7c01a14f8ea783819"
+    ]
   }
 ]
